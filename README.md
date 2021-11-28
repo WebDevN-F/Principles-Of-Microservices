@@ -8,3 +8,10 @@ Videos
 
 https://youtu.be/PFQnNFe27kU
 
+- Modelled Around Bussiness domain
+- Culture of automation
+- HIde Implementation Details
+- Decentralise All the things
+- Deploy independently
+- Isolate Failure
+- HIghly Observable
